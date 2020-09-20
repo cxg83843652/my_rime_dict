@@ -1,0 +1,3 @@
+# weasel.custom.yaml
+patch:
+  "style/horizontal": true      # 候選橫排
